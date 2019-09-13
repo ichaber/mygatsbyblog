@@ -4,7 +4,7 @@ date: "2019-09-13T22:12:03.284Z"
 description: "Hello World"
 ---
 
-This is my first post on my new blog to test Gatsby with another change! How exciting!
+This is my first post on my new blog to test Gatsby! How exciting!
 
 I'm sure I'll write a lot more interesting things in the future. For sure! :)
 
